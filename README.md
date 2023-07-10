@@ -1,6 +1,6 @@
 # searching-for-rigidity-in-algebraic-starscapes
 
-This is the complementary gallery and code library for the paper *Searching for Rigidity in Algebraic Starscapes* co-authored by Gabriel Dorfsman-Hopkins and Candy Xu. 
+This is the complementary gallery and code library for the paper *Searching for Rigidity in Algebraic Starscapes* co-authored by Gabriel Dorfsman-Hopkins and Shuchang Xu. 
 
 **Abstract**
 
@@ -16,4 +16,4 @@ We create plots of algebraic integers in the complex plane, exploring the effect
 
 **Reference** 
 
-Gabriel Dorfsman-Hopkins and Candy Xu. Searching for rigidity in algebraic starscapes: Code and gallery. github.com/candy-x/searching-for-rigidity-in-algebraic-starscapes A github repository.
+Gabriel Dorfsman-Hopkins and Shuchang Xu. Searching for rigidity in algebraic starscapes: Code and gallery. github.com/candy-x/searching-for-rigidity-in-algebraic-starscapes A github repository.
